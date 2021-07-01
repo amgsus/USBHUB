@@ -89,13 +89,64 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SDNRHLLB
 
+[Document4]
+DocumentPath=Ports.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EBQJSXWS
+
+[Document5]
+DocumentPath=PowerSupply.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NJUFLJFK
+
+[Document6]
+DocumentPath=PowerMonitor.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FTKEUNKF
+
 [Parameter1]
 Name=Title
 Value=Managed USB 2.0 Hub w/ Power Meter
 
 [Parameter2]
 Name=SheetTotal
-Value=2
+Value=4
 
 [Parameter3]
 Name=Revision
@@ -107,7 +158,7 @@ Value=A.G.
 
 [Parameter5]
 Name=Date
-Value=2021/06/26
+Value=2021/07/01
 
 [Configuration1]
 Name=Sources
