@@ -168,7 +168,7 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -185,27 +185,27 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFTYFDJP
 
 [Parameter1]
-Name=Date
-Value=2021/07/01
+Name=Title
+Value=Managed USB 2.0 Hub w/ Power Meter
 
 [Parameter2]
-Name=DrawnBy
-Value=A.G.
-
-[Parameter3]
 Name=Revision
 Value=A
 
+[Parameter3]
+Name=DrawnBy
+Value=A.G.
+
 [Parameter4]
-Name=Title
-Value=Managed USB 2.0 Hub w/ Power Meter
+Name=Date
+Value=2021/07/01
 
 [Configuration1]
 Name=Sources
